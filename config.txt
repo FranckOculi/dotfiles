@@ -1,0 +1,8 @@
+#ln -s ... ~/.config/hypr
+#ln -s ... ~/.config/waybar
+
+#firefox in wofi:
+#cp /usr/share/applications/firefox.desktop ~/.local/share/applications/firefox-private.desktop
+#update-desktop-database ~/.local/share/applications
+
+
